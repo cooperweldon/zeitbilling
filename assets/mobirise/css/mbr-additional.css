@@ -1813,8 +1813,6 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-rnXUxK5avj {
-  padding-top: 105px;
-  padding-bottom: 105px;
   background-image: url("../../../assets/images/anomaly-602401-unsplash-3-2000x2000.jpg");
 }
 .cid-rnXUxK5avj .icons-media-container {
@@ -1840,54 +1838,9 @@ body {
 .cid-rnXUxK5avj .card {
   padding-bottom: 1.5rem;
 }
-.cid-ro99pWWIMK {
-  padding-top: 30px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-.cid-ro99pWWIMK .mbr-section-subtitle {
-  color: #000000;
-}
-.cid-ro99pWWIMK .formoid {
-  margin: auto;
-}
-.cid-ro99pWWIMK .form-control {
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
-}
-.cid-ro99pWWIMK .input-group-btn .btn {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  margin: 0 !important;
-}
-.cid-ro99pWWIMK a:not([href]):not([tabindex]) {
-  color: #fff;
-}
-.cid-ro99pWWIMK a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-@media (max-width: 768px) {
-  .cid-ro99pWWIMK .mbr-form .row {
-    -webkit-flex-direction: column;
-    flex-direction: column;
-    -webkit-align-items: center;
-    align-items: center;
-  }
-  .cid-ro99pWWIMK .form-group,
-  .cid-ro99pWWIMK .input-group-btn,
-  .cid-ro99pWWIMK .input-group-btn .btn {
-    max-width: 300px;
-    width: 100%;
-  }
-}
-@media (min-width: 769px) {
-  .cid-ro99pWWIMK .mbr-form .row > * {
-    padding: 0 0.5rem;
-  }
-}
 .cid-rnXWfgMEia {
   padding-top: 30px;
-  padding-bottom: 30px;
+  padding-bottom: 45px;
   background: linear-gradient(45deg, #efff48, #efff48);
 }
 .cid-rnXWfgMEia .mbr-section-subtitle {
