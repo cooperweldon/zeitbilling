@@ -1887,7 +1887,7 @@ body {
 }
 .cid-rnXWfgMEia {
   padding-top: 30px;
-  padding-bottom: 0px;
+  padding-bottom: 30px;
   background: linear-gradient(45deg, #efff48, #efff48);
 }
 .cid-rnXWfgMEia .mbr-section-subtitle {
@@ -1900,92 +1900,7 @@ body {
 }
 .cid-rnXWfgMEia .mbr-section-title {
   color: #000000;
-}
-.cid-rnXWmidwkm {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-rnXWmidwkm .line {
-  background-color: #000000;
-  color: #000000;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-rnXWmidwkm .section-text {
-  padding: 2rem 0;
-  color: #000000;
-}
-.cid-rnXWmidwkm .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-rnXWmidwkm .inner-container {
-    width: 100% !important;
-  }
-}
-.cid-ro97TMfGfj {
-  padding-top: 45px;
-  padding-bottom: 30px;
-  background-color: #efff48;
-}
-.cid-ro97TMfGfj .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-ro97TMfGfj .media-container-row {
-  -webkit-flex-wrap: wrap;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
-}
-.cid-ro97TMfGfj .mbr-text {
-  color: #000000;
   text-align: center;
-}
-.cid-ro97TMfGfj .mbr-author-desc {
-  display: block;
-  color: #000000;
-}
-.cid-ro97TMfGfj .mbr-author-name {
-  color: #000000;
-}
-.cid-ro97TMfGfj .mbr-testimonial .panel-item {
-  background-color: #ffffff;
-}
-.cid-ro97TMfGfj .mbr-testimonial .card-block {
-  -webkit-flex-grow: 0;
-  flex-grow: 0;
-  padding: 2.4rem 2.4rem 0 2.4rem;
-}
-.cid-ro97TMfGfj .mbr-testimonial .card-block .testimonial-photo {
-  display: inline-block;
-  width: 120px;
-  height: 120px;
-  margin-bottom: 1.6rem;
-  overflow: hidden;
-  border-radius: 50%;
-}
-.cid-ro97TMfGfj .mbr-testimonial .card-block .testimonial-photo img {
-  width: 100%;
-  min-width: 100%;
-  min-height: 100%;
-}
-.cid-ro97TMfGfj .mbr-testimonial .card-footer {
-  padding-bottom: 2.4rem;
-  border-top: 0;
-  padding-top: 1rem;
-  word-wrap: break-word;
-  word-break: break-word;
-  background: none;
-}
-@media (max-width: 300px) {
-  .cid-ro97TMfGfj .testimonial-photo {
-    width: 100% !important;
-    height: auto !important;
-  }
-}
-.cid-ro97TMfGfj B {
-  color: #000000;
 }
 .cid-rnXWFVfZXB {
   padding-top: 30px;
