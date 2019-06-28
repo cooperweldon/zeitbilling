@@ -1813,6 +1813,8 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-rnXUxK5avj {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/anomaly-602401-unsplash-3-2000x2000.jpg");
 }
 .cid-rnXUxK5avj .icons-media-container {
@@ -1837,46 +1839,6 @@ body {
 }
 .cid-rnXUxK5avj .card {
   padding-bottom: 1.5rem;
-}
-.cid-rnXWmidwkm {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-rnXWmidwkm .line {
-  background-color: #000000;
-  color: #000000;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-rnXWmidwkm .section-text {
-  padding: 2rem 0;
-  color: #000000;
-}
-.cid-rnXWmidwkm .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-rnXWmidwkm .inner-container {
-    width: 100% !important;
-  }
-}
-.cid-rnXWfgMEia {
-  padding-top: 30px;
-  padding-bottom: 0px;
-  background: linear-gradient(45deg, #efff48, #efff48);
-}
-.cid-rnXWfgMEia .mbr-section-subtitle {
-  font-style: italic;
-  letter-spacing: 1rem;
-}
-.cid-rnXWfgMEia .mbr-text,
-.cid-rnXWfgMEia .mbr-section-btn {
-  color: #000000;
-}
-.cid-rnXWfgMEia .mbr-section-title {
-  color: #000000;
 }
 .cid-ro99pWWIMK {
   padding-top: 30px;
@@ -1921,6 +1883,46 @@ body {
 @media (min-width: 769px) {
   .cid-ro99pWWIMK .mbr-form .row > * {
     padding: 0 0.5rem;
+  }
+}
+.cid-rnXWfgMEia {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background: linear-gradient(45deg, #efff48, #efff48);
+}
+.cid-rnXWfgMEia .mbr-section-subtitle {
+  font-style: italic;
+  letter-spacing: 1rem;
+}
+.cid-rnXWfgMEia .mbr-text,
+.cid-rnXWfgMEia .mbr-section-btn {
+  color: #000000;
+}
+.cid-rnXWfgMEia .mbr-section-title {
+  color: #000000;
+}
+.cid-rnXWmidwkm {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rnXWmidwkm .line {
+  background-color: #000000;
+  color: #000000;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rnXWmidwkm .section-text {
+  padding: 2rem 0;
+  color: #000000;
+}
+.cid-rnXWmidwkm .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rnXWmidwkm .inner-container {
+    width: 100% !important;
   }
 }
 .cid-ro97TMfGfj {
